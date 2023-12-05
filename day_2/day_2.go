@@ -7,12 +7,6 @@ import (
 	"strings"
 )
 
-// import (
-// 	file_utils "aoc2023"
-// 	"strings"
-// 	"unicode"
-// )
-
 type Game struct {
 	idx         int
 	listOfGames []RGB
